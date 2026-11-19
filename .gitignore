@@ -1,0 +1,9 @@
+# Kế hoạch điều phối Agent nội bộ trên máy cá nhân
+MASTER_PLAN.md
+
+# Thư mục phụ thuộc & môi trường
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+
